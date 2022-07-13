@@ -3,70 +3,285 @@
   <component name="ChangeListManager">
     <list default="true" id="6db8edbe-549e-4249-a732-9ae4e78b238a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/mywebsite.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db/mywebsite.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/Increase-mobile-App-Downloads-Organically-1024x536.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/Increase-mobile-App-Downloads-Organically-1024x536.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/Increase-mobile-App-Downloads-Organically-120x85.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/Increase-mobile-App-Downloads-Organically-120x85.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/Increase-mobile-App-Downloads-Organically-150x150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/Increase-mobile-App-Downloads-Organically-150x150.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/Increase-mobile-App-Downloads-Organically-300x157.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/Increase-mobile-App-Downloads-Organically-300x157.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/Increase-mobile-App-Downloads-Organically-445x265.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/Increase-mobile-App-Downloads-Organically-445x265.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/Increase-mobile-App-Downloads-Organically-700x465.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/Increase-mobile-App-Downloads-Organically-700x465.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/Increase-mobile-App-Downloads-Organically-768x402.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/Increase-mobile-App-Downloads-Organically-768x402.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/Increase-mobile-App-Downloads-Organically-890x530.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/Increase-mobile-App-Downloads-Organically-890x530.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--1024x367.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--1024x367.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--120x85.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--120x85.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--1400x553.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--1400x553.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--1536x550.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--1536x550.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--300x108.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--300x108.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--445x265.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--445x265.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--700x465.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--700x465.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--768x275.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--768x275.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--890x530.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-QUICKEST-LOGO--890x530.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-cropped-QUICKEST-LOGO--120x85.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-cropped-QUICKEST-LOGO--120x85.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-cropped-QUICKEST-LOGO--32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/cropped-cropped-QUICKEST-LOGO--32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/download-120x85.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/download-120x85.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/download-150x122.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/download-150x122.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/hybrid-app-vs-progressive-web-app-1024x536.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/hybrid-app-vs-progressive-web-app-1024x536.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/hybrid-app-vs-progressive-web-app-120x85.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/hybrid-app-vs-progressive-web-app-120x85.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/hybrid-app-vs-progressive-web-app-150x150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/hybrid-app-vs-progressive-web-app-150x150.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/hybrid-app-vs-progressive-web-app-300x157.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/hybrid-app-vs-progressive-web-app-300x157.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/hybrid-app-vs-progressive-web-app-445x265.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/hybrid-app-vs-progressive-web-app-445x265.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/hybrid-app-vs-progressive-web-app-700x465.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/hybrid-app-vs-progressive-web-app-700x465.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/hybrid-app-vs-progressive-web-app-768x402.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/hybrid-app-vs-progressive-web-app-768x402.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/hybrid-app-vs-progressive-web-app-890x530.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/hybrid-app-vs-progressive-web-app-890x530.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-app-ideas-120x85.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-app-ideas-120x85.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-app-ideas-150x150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-app-ideas-150x150.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-app-ideas-300x157.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-app-ideas-300x157.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-app-ideas-445x265.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-app-ideas-445x265.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-app-ideas-700x465.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-app-ideas-700x465.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-app-ideas-768x402.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-app-ideas-768x402.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-app-ideas-890x530.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-app-ideas-890x530.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-application-benefits-120x85.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-application-benefits-120x85.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-application-benefits-150x150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-application-benefits-150x150.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-application-benefits-300x154.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-application-benefits-300x154.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-application-benefits-445x265.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-application-benefits-445x265.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-application-benefits-700x400.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-application-benefits-700x400.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-application-benefits-768x394.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/mobile-application-benefits-768x394.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/php-interview-questions-120x85.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/php-interview-questions-120x85.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/php-interview-questions-150x150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/php-interview-questions-150x150.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/php-interview-questions-300x132.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/php-interview-questions-300x132.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/php-interview-questions-445x265.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/php-interview-questions-445x265.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/php-interview-questions-700x335.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/php-interview-questions-700x335.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/responsive-lightbox-thumbnail-120x85.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/responsive-lightbox-thumbnail-120x85.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/responsive-lightbox-thumbnail-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/responsive-lightbox-thumbnail-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/responsive-lightbox-thumbnail-300x169.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/responsive-lightbox-thumbnail-300x169.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/responsive-lightbox-thumbnail-445x265.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/responsive-lightbox-thumbnail-445x265.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-in-india-120x85.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-in-india-120x85.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-in-india-150x150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-in-india-150x150.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-in-india-300x132.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-in-india-300x132.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-in-india-445x265.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-in-india-445x265.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-in-india-700x335.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-in-india-700x335.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-india-120x85.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-india-120x85.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-india-150x150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-india-150x150.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-india-300x188.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-india-300x188.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-india-445x265.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-india-445x265.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-india-700x465.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-india-700x465.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-india-768x480.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2022/07/scope-of-digital-marketing-india-768x480.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/fancy_close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/fancy_loading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/fancy_nav_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/fancy_nav_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/fancy_shadow_e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/fancy_shadow_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/fancy_shadow_ne.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/fancy_shadow_nw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/fancy_shadow_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/fancy_shadow_se.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/fancy_shadow_sw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/fancy_shadow_w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/fancy_title_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/fancy_title_main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/fancy_title_over.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/fancy_title_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/fancybox-x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/fancybox-y.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/fancybox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/jquery.fancybox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/jquery.fancybox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/jquery.fancybox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/jquery.fancybox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/fancybox/jquery.mousewheel-3.0.4.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/featherlight/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/featherlight/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/featherlight/featherlight.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/featherlight/featherlight.gallery.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/featherlight/featherlight.gallery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/featherlight/featherlight.gallery.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/featherlight/featherlight.gallery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/featherlight/featherlight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/featherlight/featherlight.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/featherlight/featherlight.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/imagelightbox/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/imagelightbox/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/imagelightbox/imagelightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/imagelightbox/imagelightbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/imagelightbox/imagelightbox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/imagelightbox/imagelightbox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/imagesloaded/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/imagesloaded/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/imagesloaded/imagesloaded.pkgd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/imagesloaded/imagesloaded.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/infinitescroll/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/infinitescroll/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/infinitescroll/infinite-scroll.pkgd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/infinitescroll/infinite-scroll.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/jstree/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/jstree/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/jstree/jstree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/jstree/jstree.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/jstree/themes/default/32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/jstree/themes/default/40px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/jstree/themes/default/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/jstree/themes/default/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/jstree/themes/default/throbber.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/magnific/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/magnific/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/magnific/jquery.magnific-popup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/magnific/jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/magnific/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/magnific/magnific-popup.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/masonry/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/masonry/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/masonry/masonry.pkgd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/masonry/masonry.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/nivo/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/nivo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/nivo/nivo-lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/nivo/nivo-lightbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/nivo/nivo-lightbox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/nivo/nivo-lightbox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/nivo/themes/default/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/nivo/themes/default/close@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/nivo/themes/default/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/nivo/themes/default/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/nivo/themes/default/loading@2x.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/nivo/themes/default/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/nivo/themes/default/next@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/nivo/themes/default/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/nivo/themes/default/prev@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/perfect-scrollbar/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/perfect-scrollbar/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/perfect-scrollbar/perfect-scrollbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/perfect-scrollbar/perfect-scrollbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/perfect-scrollbar/perfect-scrollbar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/perfect-scrollbar/perfect-scrollbar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/dark_rounded/btnNext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/dark_rounded/btnPrevious.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/dark_rounded/contentPattern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/dark_rounded/default_thumbnail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/dark_rounded/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/dark_rounded/sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/dark_square/btnNext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/dark_square/btnPrevious.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/dark_square/contentPattern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/dark_square/default_thumbnail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/dark_square/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/dark_square/sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/default/default_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/default/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/default/sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/default/sprite_next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/default/sprite_prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/default/sprite_x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/default/sprite_y.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/facebook/btnNext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/facebook/btnPrevious.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/facebook/contentPatternBottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/facebook/contentPatternLeft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/facebook/contentPatternRight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/facebook/contentPatternTop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/facebook/default_thumbnail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/facebook/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/facebook/sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/light_rounded/btnNext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/light_rounded/btnPrevious.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/light_rounded/default_thumbnail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/light_rounded/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/light_rounded/sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/light_square/btnNext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/light_square/btnPrevious.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/light_square/default_thumbnail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/light_square/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/images/prettyPhoto/light_square/sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/jquery.prettyPhoto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/jquery.prettyPhoto.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/prettyPhoto.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/prettyphoto/prettyPhoto.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/bn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/bs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/dsb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/hsb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/hy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/ka.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/ne.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/pa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/ps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/pt-BR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/sr-Cyrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/te.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/tk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/zh-CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/i18n/zh-TW.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/select2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/select2.full.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/select2.full.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/select2/select2.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/slippry/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/slippry/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/slippry/images/arrows.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/slippry/images/sy-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/slippry/slippry.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/slippry/slippry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/slippry/slippry.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/slippry/slippry.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/swipebox/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/swipebox/img/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/swipebox/img/icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/swipebox/img/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/swipebox/jquery.swipebox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/swipebox/jquery.swipebox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/swipebox/swipebox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/swipebox/swipebox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/tosrus/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/tosrus/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/tosrus/hammer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/tosrus/hammer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/tosrus/jquery.tosrus.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/tosrus/jquery.tosrus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/tosrus/jquery.tosrus.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/assets/tosrus/jquery.tosrus.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/css/admin-folders.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/css/admin-galleries.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/css/admin-gallery.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/css/admin-plugins.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/css/admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/css/gallery-basicgrid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/css/gallery-basicmasonry.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/css/gallery.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/css/gutenberg.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/font/responsive-lightbox.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/font/responsive-lightbox.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/font/responsive-lightbox.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/font/responsive-lightbox.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/font/responsive-lightbox.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/images/logo-rl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/images/responsive-lightbox-thumbnail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/images/responsive-lightbox-video-thumbnail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/images/welcome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/includes/class-fast-image.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/includes/class-folders-walker.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/includes/class-folders.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/includes/class-frontend.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/includes/class-galleries.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/includes/class-multilang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/includes/class-remote-library-api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/includes/class-remote-library.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/includes/class-settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/includes/class-tour.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/includes/class-welcome.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/includes/class-widgets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/includes/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/includes/providers/class-flickr.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/includes/providers/class-unsplash.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/includes/providers/class-wikimedia.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/js/admin-folders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/js/admin-galleries.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/js/admin-gallery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/js/admin-media.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/js/admin-plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/js/admin-widgets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/js/admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/js/front-basicmasonry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/js/front-basicslider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/js/front.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/js/gutenberg.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/languages/responsive-lightbox.pot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/library/simplehtmldom/simple_html_dom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/library/simplehtmldom/simplehtmldom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/responsive-lightbox.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/responsive-lightbox/wpml-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bam/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bam/header.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +308,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../laravel-jetstream-bootstrap" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -109,7 +324,9 @@
       <updated>1657514151729</updated>
       <workItem from="1657514154807" duration="5542000" />
       <workItem from="1657597890635" duration="839000" />
-      <workItem from="1657598740024" duration="3588000" />
+      <workItem from="1657598740024" duration="3620000" />
+      <workItem from="1657684679014" duration="1655000" />
+      <workItem from="1657688071830" duration="2863000" />
     </task>
     <servers />
   </component>

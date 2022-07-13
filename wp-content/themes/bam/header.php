@@ -16,12 +16,18 @@
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
-
+	<script async src="https://www.googletamanager.com/gtag/js?id=UA-150393856-1"></script>
+	<script>
+		window.datalayer = window.datalayer || [];
+		function gtag(){datalayer.push(arguments);}
+		gtag('js',new Date());
+		gtag('config','UA-150393856-1');
+	</script>
 	<?php wp_head(); ?>
 </head>
 
 <body <?php body_class(); ?>>
-
+<div id="wptime-plugin-preloader"></div>
 <?php
 if ( function_exists( 'wp_body_open' ) ) {
 	wp_body_open();
